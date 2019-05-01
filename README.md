@@ -1,4 +1,4 @@
-# 2015-Sumo-Robot-Contest
+# 2015-Intelligent-Sumo-Robot-Contest
 
 IDE: Atmel Studio 7
 Microcontroller: Atmel Atmega128  
